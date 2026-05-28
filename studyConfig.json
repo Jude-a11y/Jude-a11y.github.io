@@ -19,7 +19,7 @@
     "require_ssl": false
   },
   "createdAt": "2026-05-28T11:44:49.562Z",
-  "updatedAt": "2026-05-28T13:10:05.651Z",
+  "updatedAt": "2026-05-28T14:05:29.747Z",
   "questions": [
     {
       "esm_submit": "Submit",
@@ -116,7 +116,7 @@
     },
     {
       "setting": "status_keyboard",
-      "value": true
+      "value": false
     },
     {
       "setting": "mask_notification",
@@ -176,11 +176,11 @@
     },
     {
       "setting": "status_telephony",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_timezone",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_timezone",
@@ -188,7 +188,7 @@
     },
     {
       "setting": "status_accelerometer",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_accelerometer",
@@ -220,7 +220,7 @@
     },
     {
       "setting": "status_bluetooth",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_bluetooth",
@@ -228,7 +228,7 @@
     },
     {
       "setting": "status_gravity",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_gravity",
@@ -244,7 +244,7 @@
     },
     {
       "setting": "status_gyroscope",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_gyroscope",
@@ -260,7 +260,7 @@
     },
     {
       "setting": "status_light",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_light",
@@ -276,7 +276,7 @@
     },
     {
       "setting": "status_linear_accelerometer",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_linear_accelerometer",
@@ -296,7 +296,7 @@
     },
     {
       "setting": "status_location_gps",
-      "value": false
+      "value": true
     },
     {
       "setting": "status_location_network",
@@ -332,7 +332,7 @@
     },
     {
       "setting": "status_magnetometer",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_magnetometer",
@@ -348,7 +348,7 @@
     },
     {
       "setting": "network",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_network_events",
@@ -364,7 +364,7 @@
     },
     {
       "setting": "status_proximity",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_proximity",
@@ -380,7 +380,7 @@
     },
     {
       "setting": "status_rotation",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_rotation",
@@ -396,7 +396,7 @@
     },
     {
       "setting": "status_temperature",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_temperature",
@@ -420,7 +420,7 @@
     },
     {
       "setting": "status_screenshot",
-      "value": true
+      "value": false
     },
     {
       "setting": "capture_time_interval",
@@ -448,7 +448,7 @@
     },
     {
       "setting": "status_plugin_ambient_noise",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_plugin_ambient_noise",
@@ -464,7 +464,7 @@
     },
     {
       "setting": "status_plugin_openweather",
-      "value": true
+      "value": false
     },
     {
       "setting": "plugin_openweather_frequency",
