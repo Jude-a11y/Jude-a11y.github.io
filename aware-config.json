@@ -1,27 +1,27 @@
 {
   "server" : {
     "database_engine" : "mysql",
-    "database_host" : "121.40.118.171",
-    "database_name" : "aware_study",
-    "database_user" : "aware_insert",
-    "database_pwd" : "Znz!123456",
+    "database_host" : "localhost",
+    "database_name" : "studyDatabase",
+    "database_user" : "databaseUser",
+    "database_pwd" : "databasePassword",
     "database_port" : 3306,
-    "server_host" : "http://121.40.118.171",
-    "server_port" : 3306,
-    "websocket_port" : 3306,
+    "server_host" : "http://localhost",
+    "server_port" : 8080,
+    "websocket_port" : 8081,
     "path_fullchain_pem" : "",
     "path_key_pem" : ""
   },
   "study" : {
-    "study_key" : "znzznz",
+    "study_key" : "4lph4num3ric",
     "study_number" : 1,
-    "study_name" : "TestInt",
+    "study_name" : "AWARE Micro demo study",
     "study_active" : true,
-    "study_start" : 1655516648019,
+    "study_start" : 1779985974501,
     "study_description" : "This is a demo study to test AWARE Micro",
-    "researcher_first" : "Zhu",
-    "researcher_last" : "Ningzhe",
-    "researcher_contact" : "1554229097@qq.com"
+    "researcher_first" : "First Name",
+    "researcher_last" : "Last Name",
+    "researcher_contact" : "your@email.com"
   },
   "sensors" : [ {
     "sensor" : "accelerometer",
@@ -120,7 +120,7 @@
     "settings" : [ {
       "setting" : "status_battery",
       "title" : "Activate",
-      "defaultValue" : "true"
+      "defaultValue" : "false"
     } ]
   }, {
     "sensor" : "bluetooth",
@@ -161,7 +161,7 @@
     "settings" : [ {
       "setting" : "status_esm",
       "title" : "Active",
-      "defaultValue" : "true",
+      "defaultValue" : "false",
       "summary" : "Allow remote and applications ESM requests for human-based sensing"
     } ]
   }, {
@@ -324,7 +324,7 @@
     }, {
       "setting" : "status_network_traffic",
       "title" : "Network traffic",
-      "defaultValue" : "true",
+      "defaultValue" : "false",
       "summary" : "Wi-Fi & mobile network traffic (bytes,packets)"
     } ]
   }, {
