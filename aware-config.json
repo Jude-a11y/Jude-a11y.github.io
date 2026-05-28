@@ -6,7 +6,7 @@
     "database_user" : "aware_insert",
     "database_pwd" : "Znz!123456",
     "database_port" : 3306,
-    "server_host" : "121.40.118.171",
+    "server_host" : "http://121.40.118.171",
     "server_port" : 3306,
     "websocket_port" : 3306,
     "path_fullchain_pem" : "",
