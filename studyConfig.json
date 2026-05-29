@@ -37,10 +37,10 @@
       "type": "interval",
       "esm_keep": false,
       "questions": [
-        9,12,15,18,21
+        1
       ],
       "hours": [
-        16
+        9,12,15,18,21
       ],
       "days": [
         "monday",
