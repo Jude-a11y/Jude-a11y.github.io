@@ -23,7 +23,7 @@
   "questions": [
     {
       "esm_submit": "Submit",
-      "esm_title": "你感觉怎么样",
+      "esm_title": "你感觉怎么样?",
       "esm_type": 4,
       "esm_likert_max": 1,
       "esm_likert_min_label": "5",
@@ -37,7 +37,7 @@
       "type": "interval",
       "esm_keep": false,
       "questions": [
-        1
+        9,12,15,18,21
       ],
       "hours": [
         16
