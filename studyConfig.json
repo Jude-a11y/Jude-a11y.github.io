@@ -144,27 +144,27 @@
     },
     {
       "setting": "status_battery",
-      "value": true
+      "value": false
     },
     {
       "setting": "communication",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_communication_events",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_calls",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_messages",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_installations",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_screen",
@@ -172,7 +172,7 @@
     },
     {
       "setting": "status_touch",
-      "value": true
+      "value": false
     },
     {
       "setting": "status_telephony",
@@ -204,7 +204,7 @@
     },
     {
       "setting": "status_barometer",
-      "value": true
+      "value": false
     },
     {
       "setting": "frequency_barometer",
@@ -484,7 +484,7 @@
     },
     {
       "setting": "status_webservice",
-      "value": true
+      "value": false
     }
   ]
 }
