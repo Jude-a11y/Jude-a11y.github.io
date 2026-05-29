@@ -484,7 +484,7 @@
     },
     {
       "setting": "status_webservice",
-      "value": false
+      "value": true
     }
   ]
 }
