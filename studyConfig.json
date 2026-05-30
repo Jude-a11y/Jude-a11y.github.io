@@ -25,8 +25,8 @@
       "esm_submit": "Submit",
       "esm_title": "你感觉怎么样?",
       "esm_type": 4,
-      "esm_likert_max": 1,
-      "esm_likert_min_label": "5",
+      "esm_likert_max": 7,
+      "esm_likert_min_label": "很难过",
       "esm_likert_max_label": "很高兴",
       "id": 1
     }
